@@ -21,7 +21,7 @@
 #else
 #  include <WProgram.h>
 #endif
-#include <../Wire/Wire.h>
+#include <Wire.h>
 
 #include <inttypes.h>
 #include <Print.h>
